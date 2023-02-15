@@ -1,10 +1,15 @@
 opencv-python>=4.5.0
 pykitti
-tqdm
 simple-parsing
+tqdm
 imutils
 --extra-index-url https://download.pytorch.org/whl/cu117
 torch>=1.13.1
 torchvision
+av
+pytorch_lightning
+clearml
+tensorboard
 # Development requirements
 pylint
+black

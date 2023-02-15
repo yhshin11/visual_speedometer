@@ -1,0 +1,4 @@
+**/lightning_logs
+**.egg-info
+tmp/
+data/
